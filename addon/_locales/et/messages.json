@@ -156,5 +156,8 @@
     },
     "site_stravaglobal": {
         "message": "Strava Global Heatmap"
+    },
+    "loading": {
+        "message": "Laadime andmeid...\nKui tegevus ei lõppe, siis laadi leht uuesti ja proovi veel kord."
     }
 }

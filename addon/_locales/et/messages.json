@@ -137,7 +137,7 @@
         "message": "Osmose"
     },
     "site_osmwiki": {
-        "message": "OpenStreetMap viki"
+        "message": "OpenStreetMapi viki"
     },
     "site_openstreetbrowser": {
         "message": "OpenStreetBrowser"
@@ -159,5 +159,50 @@
     },
     "loading": {
         "message": "Laadime andmeid...\nKui tegevus ei lõppe, siis laadi leht uuesti ja proovi veel kord."
+    },
+    "site_hotmap": {
+        "message": "Humanitaarse OSMi tiimi kaart"
+    },
+    "site_keepright": {
+        "message": "keep right!"
+    },
+    "site_osmhistoryviewer": {
+        "message": "OSMi ajaloo otsing"
+    },
+    "site_pewuosmhistory": {
+        "message": "OSMi ajaloo otsing (PeWu)"
+    },
+    "site_osmrelationanalyzer": {
+        "message": "OSMi relatsioonide analüüsija"
+    },
+    "site_osmroutemanager": {
+        "message": "OSMi marsruutide haldur"
+    },
+    "site_mapcompare": {
+        "message": "Map Compare"
+    },
+    "site_osminspector": {
+        "message": "OSMi kontrollija (OSM Inspector)"
+    },
+    "site_howdidyoucontribute": {
+        "message": "Kuidas sina osalesid OSMi täiendamisel?"
+    },
+    "site_osmchangeviz": {
+        "message": "Muudatuskogum võrdluse alusel (Neis)"
+    },
+    "site_osmchangetiles": {
+        "message": "Viimased muudatused OSMis (Neis)"
+    },
+    "site_overpassapi": {
+        "message": "Lisanduv OSMi muudatuste vaataja (Augmented OSM Change Viewer)"
+    },
+    "site_waze": {
+        "message": "Waze"
+    },
+    "site_osmbuildings": {
+        "message": "OSMi hooned (OSM Buildings)"
+    },
+    "site_osmlanevisualizer": {
+        "message": "OSMi sõiduridade kuvaja (OSM Lane Visualizer)"
     }
 }

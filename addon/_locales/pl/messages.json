@@ -94,7 +94,7 @@
         }
     },
     "button_showEnabledLinks": {
-        "message": "Wyświetlanie włączonych łączy przy użyciu dodatkowych parametrów",
+        "message": "Pokaż aktywne linki z użyciem dodatkowych parametrów",
         "description": "Shown in popup below some errors to allow users to see enabled links."
     },
     "site_openstreetmap": {

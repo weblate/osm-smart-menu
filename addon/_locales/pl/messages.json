@@ -153,7 +153,7 @@
         "message": "trzymaj się prawej!"
     },
     "button_showOtherEnabledLinks": {
-        "message": "Wyświetlanie pozostałych włączonych łączy przy użyciu dodatkowych parametrów",
+        "message": "Pokaż pozostałe aktywne linki przy użyciu dodatkowych parametrów",
         "description": "Shown in popup below the list of links; to see other enabled links with additional parameters."
     },
     "site_osmrelationanalyzer": {
@@ -187,11 +187,11 @@
         "message": "Menu OS"
     },
     "extensionStoreDescription": {
-        "message": "Podczas kliknięcia przycisku menu, ten rozszerzenie będzie X54XdetectX68X OpenStreet. Mapa wewnątrz obecnej strony i wola (X136X) generowanego X152X.\n\nObjawy rozpoznawcze obejmują:\n(X250X)\n(X255X) współrzędne (zoom, szerokości i długości)\nElementy X311XOSM (node id, way id, relation id and changeset id)X375X (ang.).\n(X381XUser) i GPS prowadzą ślady idX413X.\n(X419X) (ang.).\nJeśli nie jesteśmy pewni, że witryna będzie dostępna, stara się spróbować https:/wwwwwwwwwwwtstreetmap.org/. Przed kliknięciem na menu.\n\n(X553X) The OpenStreet (ang.). Logo Map jest znakiem towarowym OpenStreetMap Foundation i jest używany z pozwoleniem. Projekt nie jest wspierany przez lub stowarzyszony z OpenStreetMap Foundation",
+        "message": "Gdy klikniesz przycisk menu, to rozszerzenie <strong>wykryje</strong> parametry OpenStreetMap na bieżącej stronie i <strong>wygeneruje</strong> listę powiązanych map oraz narzędzi z użyciem tych parametrów.\n\nRozpoznawane parametry to:\n<ul>\n<li>Współrzędne mapy (zoom, szerokość i długość geograficzna)</li>\n<li>Elementy OSM (identyfikator węzła, drogi, relacji oraz identyfikator zestawu zmian)</li>\n<li>Nazwy użytkowników i identyfikatory śladów GPS</li>\n</ul>\nJeśli nie masz pewności, która strona zostanie rozpoznana, spróbuj przejść na https://www.openstreetmap.org/ przed kliknięciem menu.\n\n<em>Logo OpenStreetMap jest znakiem towarowym OpenStreetMap Foundation i jest używane za ich zgodą. Ten projekt nie jest wspierany ani powiązany z OpenStreetMap Foundation.</em>",
         "description": "Description shown in Chrome and Firefox's extension download page"
     },
     "site_opentopomap": {
-        "message": "OtwórzTopoMap"
+        "message": "OpenTopoMap"
     },
     "site_openinframap": {
         "message": "Otwarta mapa infrastruktury "

@@ -171,6 +171,27 @@
         "message": "Osmose"
     },
     "site_osminspector": {
-        "message": "OSM Inspector"
+        "message": "OSM Inspektör"
+    },
+    "site_mapcompare": {
+        "message": "Kartjämförelse"
+    },
+    "site_howdidyoucontribute": {
+        "message": "Hur bidrog du till OSM?"
+    },
+    "site_osmwiki": {
+        "message": "OpenStreetMap wiki"
+    },
+    "site_osmchangeviz": {
+        "message": "Ändringsuppsättning genom jämförelse (Neis)"
+    },
+    "site_waze": {
+        "message": "Waze"
+    },
+    "site_openstreetbrowser": {
+        "message": "OpenStreetBrowser"
+    },
+    "site_osmcha": {
+        "message": "OSM Cha Cha cha"
     }
 }

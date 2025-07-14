@@ -192,6 +192,42 @@
         "message": "OpenStreetBrowser"
     },
     "site_osmcha": {
-        "message": "OSM Cha Cha cha"
+        "message": "OSMCha"
+    },
+    "site_osmbuildings": {
+        "message": "OSM Byggnader"
+    },
+    "site_openlevelup": {
+        "message": "OpenLevelUp!"
+    },
+    "site_missingmaps": {
+        "message": "Missing Maps"
+    },
+    "site_osmlanevisualizer": {
+        "message": "OSM Lane Visualizer"
+    },
+    "site_stravaglobal": {
+        "message": "Strava Global Heatmap"
+    },
+    "site_sentinelhub": {
+        "message": "Sentinel Hub"
+    },
+    "site_openmapsurfer": {
+        "message": "OpenMapSurfer"
+    },
+    "site_opencyclemap": {
+        "message": "OpenCycleMap"
+    },
+    "site_openseamap": {
+        "message": "OpenSeaMap"
+    },
+    "site_opensnowmap": {
+        "message": "OpenSnowMap"
+    },
+    "site_opentopomap": {
+        "message": "OpenTopoMap"
+    },
+    "site_osmchangetiles": {
+        "message": "Senaste OSM Redigeringarna (Neis)"
     }
 }

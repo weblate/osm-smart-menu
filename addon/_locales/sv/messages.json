@@ -114,6 +114,12 @@
         "message": "Öppen infrastruktur Karta "
     },
     "site_openptmap": {
-        "message": "Kollektivtrafikkarta"
+        "message": "Öppen kollektivtrafikkarta"
+    },
+    "site_opnvkarte": {
+        "message": "ÖPNVKarte"
+    },
+    "site_stamen": {
+        "message": "Stamen Maps"
     }
 }

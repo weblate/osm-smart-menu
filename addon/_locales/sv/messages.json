@@ -162,6 +162,15 @@
         "message": "Förstärkt OSM Ändra Viewer"
     },
     "site_osmrelationanalyzer": {
-        "message": "OSM Relation Analyzer"
+        "message": "OSM Relations Analysator"
+    },
+    "site_osmroutemanager": {
+        "message": "OSM Route Manager"
+    },
+    "site_osmose": {
+        "message": "Osmose"
+    },
+    "site_osminspector": {
+        "message": "OSM Inspector"
     }
 }

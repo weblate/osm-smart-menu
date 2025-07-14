@@ -121,5 +121,35 @@
     },
     "site_stamen": {
         "message": "Stamen Maps"
+    },
+    "site_f4map": {
+        "message": "F4 Map (3D demo)"
+    },
+    "site_hotmap": {
+        "message": "Humanitär OSM Team Map"
+    },
+    "site_openstreetcam": {
+        "message": "KartaView"
+    },
+    "site_mapillary": {
+        "message": "Mapillär"
+    },
+    "site_level0": {
+        "message": "Level0 Editor"
+    },
+    "site_ideditor": {
+        "message": "iD Editor"
+    },
+    "site_umap": {
+        "message": "uMap"
+    },
+    "site_osmdeephistory": {
+        "message": "OSM Djup historia"
+    },
+    "site_deepdiff": {
+        "message": "Djup Diff"
+    },
+    "site_osmhistoryviewer": {
+        "message": "OSM Historia Viewer"
     }
 }

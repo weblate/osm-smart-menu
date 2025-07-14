@@ -1,1 +1,38 @@
-{}
+{
+    "extensionName": {
+        "message": "OSM Smart Menu"
+    },
+    "extensionShortName": {
+        "message": "OSMenu"
+    },
+    "extensionDescription": {
+        "message": "Hjälper OpenStreet Kartbidrag för att enkelt växla mellan olika kartor och analysverktyg från samhället."
+    },
+    "extensionStoreDescription": {
+        "message": "När du klickar på menyns knapp kommer denna förlängning <strong>detektera </strong> OpenStreet Kartparametrar inuti den aktuella sidan och kommer <strong>generera </strong> en lista över relaterade kartor och verktyg med dessa parametrar.\n\nErkända parametrar inkluderar:\n<ul>\n<li>Map koordinater (zoom, latitud och longitud)</li>\n<li>OSM-element (node id, way id, relation id och changeet id)</li>\n<li> Användarnamn och GPS spår id </li>\n</ul>\nOm du inte är säker på vilken webbplats som kommer att erkännas, försök att gå till https://www.openstreetmap.org/ innan du klickar på menyn.\n\n<em> OpenStreet Kart logotyp är ett varumärke för OpenStreetMap Foundation, och används med deras tillstånd. Detta projekt stöds inte av eller är anslutet till OpenStreetMap Foundation"
+    },
+    "loading": {
+        "message": "Laddar...\nOm detta inte slutar ladda, ladda om sidan och försök igen."
+    },
+    "newOptionDetected_notice": {
+        "message": "Vill du lägga till denna webbplats i menyn?"
+    },
+    "newOptionDetected_buttonText": {
+        "message": "Lägg till länk"
+    },
+    "newOptionDetected_added": {
+        "message": "Lägg till som $PAGE_TITLE$",
+        "placeholders": {
+            "PAGE_TITLE": {
+                "content": "$1",
+                "example": "OpenStreetMap"
+            }
+        }
+    },
+    "configurationLink": {
+        "message": "Konfiguration"
+    },
+    "config_editButton": {
+        "message": "Edit"
+    }
+}

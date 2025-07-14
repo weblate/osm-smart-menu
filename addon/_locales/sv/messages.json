@@ -150,6 +150,18 @@
         "message": "Djup Diff"
     },
     "site_osmhistoryviewer": {
-        "message": "OSM Historia Viewer"
+        "message": "OSM-historikvisare"
+    },
+    "site_pewuosmhistory": {
+        "message": "OSM History Viewer (PeWu)"
+    },
+    "site_whodidit": {
+        "message": "WHODIDIT (Zverik)"
+    },
+    "site_overpassapi": {
+        "message": "Förstärkt OSM Ändra Viewer"
+    },
+    "site_osmrelationanalyzer": {
+        "message": "OSM Relation Analyzer"
     }
 }

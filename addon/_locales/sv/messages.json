@@ -232,5 +232,8 @@
     },
     "site_keepright": {
         "message": "håll höger!"
+    },
+    "site_indoorequal": {
+        "message": "inomhus="
     }
 }

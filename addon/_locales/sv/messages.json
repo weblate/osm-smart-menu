@@ -229,5 +229,8 @@
     },
     "site_osmchangetiles": {
         "message": "Senaste OSM Redigeringarna (Neis)"
+    },
+    "site_keepright": {
+        "message": "håll höger!"
     }
 }
